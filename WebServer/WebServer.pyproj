@@ -43,6 +43,9 @@
     <Compile Include="home\migrations\__init__.py" />
     <Compile Include="home\models.py" />
     <Compile Include="home\tests.py" />
+    <Compile Include="home\urls.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="home\views.py" />
     <Compile Include="home\__init__.py" />
     <Compile Include="manage.py" />
@@ -68,6 +71,7 @@
     <Folder Include="WebServer\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="home\templates\home\home.html" />
     <Content Include="home\templates\home\index.html" />
     <Content Include="requirements.txt" />
     <Content Include="app\static\app\content\bootstrap.css" />
