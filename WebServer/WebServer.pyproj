@@ -71,6 +71,9 @@
     <Folder Include="WebServer\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="home\templates\home\home.html" />
     <Content Include="home\templates\home\index.html" />
     <Content Include="requirements.txt" />
