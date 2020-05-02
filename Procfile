@@ -1,1 +1,1 @@
-web: gunicorn WebSever.wsgi 
+web: gunicorn WebSever.wsgi --log-file 
