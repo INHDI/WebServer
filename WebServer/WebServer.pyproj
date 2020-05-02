@@ -49,6 +49,9 @@
     <Compile Include="home\views.py" />
     <Compile Include="home\__init__.py" />
     <Compile Include="manage.py" />
+    <Compile Include="Procfile">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="WebServer\__init__.py" />
     <Compile Include="WebServer\settings.py" />
     <Compile Include="WebServer\urls.py" />
