@@ -25,7 +25,7 @@ SECRET_KEY = 'a64a375e-e247-4edb-a322-25fa6c392086'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['sleepy-atoll-33235.herokuapp.com']
+ALLOWED_HOSTS = ['']
 
 # Application references
 # https://docs.djangoproject.com/en/2.1/ref/settings/#std:setting-INSTALLED_APPS
